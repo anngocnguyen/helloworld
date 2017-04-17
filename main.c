@@ -1,5 +1,5 @@
 #include "my_func.h"
 
 int main(){
-    my_func(7);
+    my_func(1);
 }
